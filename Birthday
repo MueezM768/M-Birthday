@@ -50,14 +50,14 @@
     <p>Your presence is the best gift of all. Wishing you all the joy, love, and happiness that you deserve on your special day!</p>
     <div class="slideshow">
         <!-- Add slideshow images here -->
-        <img src="photo1.jpg" alt="Photo 1" width="100%">
-        <img src="photo2.jpg" alt="Photo 2" width="100%" style="display:none;">
+        <img src="https://www.greetingsisland.com/design/cards/vibrant-greetings/76-44906" alt="Photo 1" width="100%">
+        <img src="https://www.greetingsisland.com/design/cards/disco-cake/76-44875" alt="Photo 2" width="100%" style="display:none;">
         <!-- Add JavaScript for slideshow effect -->
     </div>
     <div class="music">
         <!-- Embed an audio player for music -->
         <audio controls>
-            <source src="happy-birthday-song.mp3" type="audio/mpeg">
+            <source src="https://music.apple.com/us/song/happy-birthday-to-you-happy-birthday-traditional-version/1551862835" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
     </div>
