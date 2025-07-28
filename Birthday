@@ -1,66 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Happy Birthday</title>
-    <style>
-        body {
-            background: url('background-image-url.jpg') no-repeat center center fixed;
-            background-size: cover;
-            font-family: Arial, sans-serif;
-            color: #fff;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            font-size: 48px;
-            margin-top: 20px;
-        }
-        p {
-            font-size: 18px;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        .button {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 10px 20px;
-            background-color: #ff4081;
-            color: #fff;
-            border-radius: 5px;
-            text-decoration: none;
-            transition: background-color 0.3s;
-        }
-        .button:hover {
-            background-color: #e91e63;
-        }
-        .slideshow {
-            margin: 20px auto;
-            max-width: 500px;
-        }
-        .music {
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Happy Birthday, My Love ❤️</title>
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #ffecd2, #fcb69f);
+      font-family: 'Segoe UI', sans-serif;
+      color: #333;
+      text-align: center;
+      overflow-x: hidden;
+    }
+    h1 {
+      font-family: 'Great Vibes', cursive;
+      font-size: 4em;
+      margin-top: 50px;
+      color: #d6336c;
+    }
+    p {
+      font-size: 1.5em;
+      max-width: 800px;
+      margin: 30px auto;
+      line-height: 1.6;
+    }
+    .heart {
+      animation: pulse 1.5s infinite;
+      color: #e63946;
+      font-size: 50px;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+      100% { transform: scale(1); }
+    }
+    .footer {
+      position: fixed;
+      bottom: 10px;
+      width: 100%;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
 </head>
 <body>
-    <h1>Happy Birthday, Mahek Yousaf!</h1>
-    <p>Your presence is the best gift of all. Wishing you all the joy, love, and happiness that you deserve on your special day!</p>
-    <div class="slideshow">
-        <!-- Add slideshow images here -->
-        <img src="https://www.greetingsisland.com/design/cards/vibrant-greetings/76-44906" alt="Photo 1" width="100%">
-        <img src="https://www.greetingsisland.com/design/cards/disco-cake/76-44875" alt="Photo 2" width="100%" style="display:none;">
-        <!-- Add JavaScript for slideshow effect -->
-    </div>
-    <div class="music">
-        <!-- Embed an audio player for music -->
-        <audio controls>
-            <source src="https://music.apple.com/us/song/happy-birthday-to-you-happy-birthday-traditional-version/1551862835" type="audio/mpeg">
-            Your browser does not support the audio element.
-        </audio>
-    </div>
-    <a href="#" class="button">Click here for a surprise!</a>
+
+  <h1>Happy Birthday, My Love 💖</h1>
+  <p>
+    On this special day, I want you to know how much you mean to me.<br/>
+    Your smile lights up my world, and your love gives me strength.<br/>
+    Every day with you is a beautiful gift, and today, I celebrate you — my joy, my peace, my everything.
+  </p>
+  <div class="heart">❤️</div>
+  <p>
+    May this year bring you as much happiness as you’ve brought into my life.<br/>
+    I’m so lucky to call you mine. Happy Birthday, sweetheart!
+  </p>
+
+  <div class="footer">— Forever yours, Mueez 💌</div>
+
 </body>
 </html>
